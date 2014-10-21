@@ -1,0 +1,6 @@
+-main gopherhx.App
+-cp src/app
+-cpp export/client
+-D HXCPP_M64
+
+
